@@ -1,0 +1,22 @@
+# Lisboa Flores
+
+> Floricultura em Continental Shopping, Piso Boulevard — Av. Leão Machado, 100 - Jaguaré, São Paulo - SP, 05328-020. Buquês, arranjos e flores para presente, com encomenda pelo WhatsApp e retirada na loja (não faz entregas). Atendimento pelo WhatsApp (11) 95707-9648.
+
+## Dados do negócio
+
+- Endereço: Continental Shopping, Piso Boulevard — Av. Leão Machado, 100 - Jaguaré, São Paulo - SP, 05328-020
+- Horário: Seg a sáb, 10h às 22h; dom, 14h às 20h
+- WhatsApp: (11) 95707-9648 (https://wa.me/5511957079648)
+- Telefone da loja: (11) 3714-0437
+- Instagram: https://www.instagram.com/lisboafloresdecoracoes/
+
+## Serviços
+
+- Buquês
+- Arranjos
+- Presentes (flores em caixa, buquê com balão)
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
